@@ -18,7 +18,7 @@
 
 ☝️ Sounds a bit too much? I've found I understand programming better, if I can look at it through different paradigms. 
 
-💬 If you have an internship or a junior position for me, feel free to rouch out.
+💬 If you have an internship or a junior position for me, reach out!  👉 [**LinkedIn**](https://www.linkedin.com/in/a-hr-nikolov/)
 
 
 <!--
