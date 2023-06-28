@@ -6,7 +6,7 @@
 
 📚 I've graduated from a maths high school with a programming profile (C++ focused), then studied psychology and worked in marketing and science communication. Yet I couldn't get programming out of my mind, so here I am now. :) 
 
-⚡ My goal is to become a full-stack dev with a focus on back-end develpment.
+⚡ My goal is to become a full-stack dev with a focus on back-end development.
 
 🌱 I'm currently focused on these areas:
 - **node.js** + **express.js** for Back-end Development, will probably transition to **Java**
@@ -17,6 +17,8 @@
 - Object-oriented Programming (OOP) with **Java**
 
 ☝️ Sounds a bit too much? I've found I understand programming better, if I can look at it through different paradigms. 
+
+💬 If you have an internship or a junior position for me, feel free to rouch out.
 
 
 <!--
