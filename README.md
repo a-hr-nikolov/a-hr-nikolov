@@ -16,7 +16,7 @@
 
 🌱 Additionally, I spend time learning more about:
 - Object-oriented Programming (OOP) with **Java**
-- RDBMS and database normalization (actually find it quite fun to think about)
+- RDBMS and database normalization, PostgreSQL, SQLite, both with raw SQL and ORMs
 - Data Structures and Algorithms for coding challenges with **Python**
 
 🔐 Since you are reading this far, I want to tell you a secret. I actually love programming as a concept, even the theoretical stuff (incl. algorithms, paradigms, databases, etc.). I also love sharing my knowledge. People tell me I'm quite good at that actually (plus I already have such projects in other fields). So... hopefully, I'll be able to use that with programming, too!
