@@ -1,8 +1,6 @@
 # A bit of an introduction 
 Hi there! 👋 
-I'm **Atanas**, and this is my practice github. What does that mean? Well, this is where I commit stuff from projects (mostly private), new languages that I learn, some challenges, and the occasional public thing that I don't mind sharing.
-
-📚 I've graduated from a maths high school with a programming profile (C++ focused), then studied psychology, and went into in marketing and science communication for 7+ years. Yet I couldn't get programming out of my mind, so here I am now. :) 
+I'm **Atanas**, and this is my practice GitHub. What does that mean? Well, here I commit my (mostly private) projects, new languages that I'm learning, and some challenges.
 
 ⚡ Recent experience:
 - **Python** back-end programming and desktop GUI development (completed **StrypesLab Python** at the top of the class)
