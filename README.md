@@ -6,7 +6,7 @@ I'm **Atanas**, and this is my practice GitHub. What does that mean? This is whe
 
 ⚡ Recent experience:
 - **Python** back-end programming and desktop GUI development (completed **StrypesLab Python** at the top of the class)
-- Currently developing a library manager for YouTube, mainly to solve a niche problem some brand and channel managers have with how the YouTube library works at the moment. If you're interested, ask me about it, I have a prototype version!
+- Also studying Go for web development in conjunction with Python
 
 ☝️ I also have some experience with:
 - **Java** as a learning tool for design patterns and OOP
