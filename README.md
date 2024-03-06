@@ -4,7 +4,8 @@ I'm **Atanas**, and this is my practice GitHub. What does that mean? It's where 
 
 👨‍💻 Currently working as a **Python Developer** at **Strypes (ICT Group)**
 
-⚡ Recent experience:
+⚡ Currently focused on:
+- Python backend development
 - Go for web development in conjunction with Python
 
 ☝️ I also have some experience with:
@@ -12,11 +13,8 @@ I'm **Atanas**, and this is my practice GitHub. What does that mean? It's where 
 - **node.js** + **express.js** for prototype Back-end Development
 - **React** for Front-end Development
 - **Java** as a learning tool for design patterns and OOP
-
-🌱 Additionally, I'm learning more about:
-- Go for web development in conjunction with Python
 - RDBMS and database normalization, PostgreSQL, SQLite, raw SQL and ORMs
-- Data structures and algorithms for coding challenges with **Python**
+
 
 💬 Want to reach out? Try here 👉 [**LinkedIn**](https://www.linkedin.com/in/a-hr-nikolov/)
 
