@@ -1,19 +1,20 @@
 # A bit of an introduction 
 Hi there! 👋 
-I'm **Atanas**, and this is my practice GitHub. What does that mean? This is where I commit my (mostly private) projects, practice tasks when learning new languages, and some challenges.
+I'm **Atanas**, and this is my practice GitHub. What does that mean? It's where I commit my (mostly private) projects, practice tasks, and solutions to various coding challenges.
 
 👨‍💻 Currently working as a **Python Developer** at **Strypes (ICT Group)**
 
 ⚡ Recent experience:
-- **Python** back-end programming and desktop GUI development (completed **StrypesLab Python** at the top of the class)
-- Also studying Go for web development in conjunction with Python
+- Go for web development in conjunction with Python
 
 ☝️ I also have some experience with:
-- **Java** as a learning tool for design patterns and OOP
+- **Python** back-end programming and desktop GUI development
 - **node.js** + **express.js** for prototype Back-end Development
 - **React** for Front-end Development
+- **Java** as a learning tool for design patterns and OOP
 
-🌱 Additionally, I spend time learning more about:
+🌱 Additionally, I'm learning more about:
+- Go for web development in conjunction with Python
 - RDBMS and database normalization, PostgreSQL, SQLite, raw SQL and ORMs
 - Data structures and algorithms for coding challenges with **Python**
 
