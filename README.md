@@ -4,9 +4,9 @@ I'm **Atanas**, and this is my practice GitHub. What does that mean? It's where 
 
 👨‍💻 Currently working as a **Python Developer** at **Strypes (ICT Group)**
 
-⚡ Currently focused on:
-- Python backend development
-- Go for web development in conjunction with Python
+⚡ Privately focused on:
+- Backend development with **Python** frameworks
+- **Go** for tooling and web development
 
 ☝️ I also have some experience with:
 - **Python** back-end programming and desktop GUI development
