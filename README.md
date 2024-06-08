@@ -1,20 +1,20 @@
 # A bit of an introduction 
 Hi there! 👋 
-I'm **Atanas**, and this is my practice GitHub. What does that mean? It's where I commit my (mostly private) projects, practice tasks, and solutions to various coding challenges.
+I'm **Atanas**, and this is my practice GitHub. It's where I commit my (mostly private) projects, practice tasks, and solutions to coding challenges.
 
 👨‍💻 Currently working as a **Python Developer** at **Strypes (ICT Group)**
 
 ⚡ Privately focused on:
-- Backend development with **Python** frameworks
+- Back-end development with **Python** frameworks (mainly **Django**)
 - **Go** for tooling and web development
+- Configuring the world with **Nix** and **NixOS**
 
 ☝️ I also have some experience with:
-- **Python** back-end programming and desktop GUI development
-- **node.js** + **express.js** for prototype Back-end Development
-- **React** for Front-end Development
+- Desktop GUI development in **Python** (Tkinter, PyQt/PySide)
+- **node.js** with **express.js** for a couple of back-end prototypes
+- **Vanilla JavaScript** (and a bit of **React**) for simple front-end development
 - **Java** as a learning tool for design patterns and OOP
 - RDBMS and database normalization, PostgreSQL, SQLite, raw SQL and ORMs
-
 
 💬 Want to reach out? Try here 👉 [**LinkedIn**](https://www.linkedin.com/in/a-hr-nikolov/)
 
