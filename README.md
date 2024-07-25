@@ -7,7 +7,7 @@ I'm **Atanas**, and this is my practice GitHub. It's where I commit my (mostly p
 ⚡ Privately focused on:
 - Back-end development with **Python** frameworks (mainly **Django**)
 - **Go** for tooling and web development
-- Configuring the world with **Nix** and **NixOS**
+- Linux tinkering with **OpenSUSE** and **NixOS**
 
 ☝️ I also have some experience with:
 - Desktop GUI development in **Python** (Tkinter, PyQt/PySide)
