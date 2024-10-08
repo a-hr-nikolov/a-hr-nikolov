@@ -2,11 +2,10 @@
 Hi there! 👋 
 I'm **Atanas**, and this is my practice GitHub. It's where I commit my (mostly private) projects, practice tasks, and solutions to coding challenges.
 
-👨‍💻 Currently working as a **Python Developer** at **Strypes (ICT Group)**
+👨‍💻 Currently working as a **Python Developer** at **ICT Strypes**
 
-⚡ Privately focused on:
+⚡ Focused on:
 - Back-end development with **Python** frameworks (mainly **Django**)
-- **Go** for tooling and web development
 - Linux tinkering with **OpenSUSE** and **NixOS**
 
 ☝️ I also have some experience with:
