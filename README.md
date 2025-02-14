@@ -5,15 +5,14 @@ I'm **Atanas**, and this is my practice GitHub. It's where I commit my (mostly p
 👨‍💻 Currently working as a **Python Developer** at **ICT Strypes**
 
 ⚡ Focused on:
-- Back-end development with **Python** frameworks (mainly **Django**)
-- Linux tinkering with **OpenSUSE** and **NixOS**
+- Back-end development with **Go** and **Python** frameworks (mainly **Django**)
+- Linux tinkering with **OpenSUSE**
 
 ☝️ I also have some experience with:
 - Desktop GUI development in **Python** (Tkinter, PyQt/PySide)
-- **node.js** with **express.js** for a couple of back-end prototypes
-- **Vanilla JavaScript** (and a bit of **React**) for simple front-end development
+- **JavaScript** (**React**, **node.js** + **express.js**) for basic full-stack projects
 - **Java** as a learning tool for design patterns and OOP
-- RDBMS and database normalization, PostgreSQL, SQLite, raw SQL and ORMs
+- RDBMS and database normalization, **PostgreSQL**, **SQLite**, raw SQL and ORMs
 
 💬 Want to reach out? Try here 👉 [**LinkedIn**](https://www.linkedin.com/in/a-hr-nikolov/)
 
